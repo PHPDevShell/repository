@@ -1,13 +1,13 @@
 {
-    "compatibility-version":4,
-    "plugins":
+    "compatibility-version": 4,
+    "plugins": {
         "Mustache": {
-            "desc":"Light and fast template Engine",
-            "repo":""
+            "desc": "Light and fast template Engine",
+            "repo": ""
         },
         "PluginManager": {
-            "desc":"Easy to use UI to manage plugins",
-            "repo":""
+            "desc": "Easy to use UI to manage plugins",
+            "repo": ""
         }
     }
 }
